@@ -95,6 +95,13 @@ An object that represents additional properties. Every key is a property name an
 
 A list of additional parameters to pass in.
 
+### extendGitLog
+
+- **type:** `(git: object) => void`
+- **default:** `undefined`
+
+A function used to extend or modify the [`$page.git`](#api) object. 
+
 ### onlyFirstAndLastCommit
 
 - **type:** `boolean`

@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-git-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "description": "A VuePress plugin that integrates git logs into your page.",
   "author": "Shigma <1700011071@pku.edu.cn>",
