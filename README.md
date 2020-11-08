@@ -28,7 +28,7 @@ yarn add vuepress-plugin-git-log
 module.exports = {
   plugins: [
     ['git-log', {
-      additionalArgs: '--no-merge',
+      additionalArgs: '--no-merges',
       onlyFirstAndLastCommit: true,
     }],
   ]
